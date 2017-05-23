@@ -1,6 +1,6 @@
 {
   "name": "postcss-theme-shorthand",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "PostCSS plugin that allows the use of 'light-' and 'dark-' property prefixes for themeing.",
   "keywords": [
     "postcss",
