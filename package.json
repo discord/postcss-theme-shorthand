@@ -1,0 +1,39 @@
+{
+  "name": "postcss-theme-shorthand",
+  "version": "1.0.1",
+  "description": "PostCSS plugin that allows the use of 'light-' and 'dark-' property prefixes for themeing.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "theme"
+  ],
+  "author": "TheSisb <shadiisber@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammerandchisel/postcss-theme-shorthand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hammerandchisel/postcss-theme-shorthand/issues"
+  },
+  "homepage": "https://github.com/hammerandchisel/postcss-theme-shorthand",
+  "dependencies": {
+    "postcss": "^5.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^18.0.0"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss",
+    "env": {
+      "jest": true
+    }
+  },
+  "main": "index.js"
+}
