@@ -1,6 +1,6 @@
 {
   "name": "postcss-theme-shorthand",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin that allows the use of 'light-' and 'dark-' property prefixes for themeing.",
   "keywords": [
     "postcss",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/hammerandchisel/postcss-theme-shorthand",
   "dependencies": {
-    "postcss": "^5.2.6"
+    "postcss": "6.0.5"
   },
   "devDependencies": {
     "eslint": "^3.12.2",

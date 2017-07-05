@@ -16,8 +16,9 @@ it('Handles light and dark theme property prefixes', () => {
   margin: 10px;
   light-color: $black;
 }
-`, 
-`:global(.theme-light) .thing { 
+`,
+`
+:global(.theme-light) .thing { 
   color: $black;
 }
 .thing { 
