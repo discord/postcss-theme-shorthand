@@ -3,8 +3,8 @@
 [PostCSS] plugin that allows the use of "light-" and "dark-" property prefixes for themeing.
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/TheSisb/postcss-short-size.svg
-[ci]:      https://travis-ci.org/TheSisb/postcss-short-size
+[ci-img]:  https://travis-ci.org/TheSisb/postcss-theme-shorthand.svg
+[ci]:      https://travis-ci.org/TheSisb/postcss-theme-shorthand
 
 ```css
 .thing {
